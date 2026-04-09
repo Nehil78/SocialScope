@@ -1,0 +1,33 @@
+general:
+  version: "1.0-instagram-alpha"
+  timezone: "Asia/Kolkata"
+  default_output_dir: "./output"
+
+project:
+  name: "SocialScope Forensic Toolkit"
+  version: "1.0-alpha"
+  focus: "Instagram Direct Messages"
+
+instagram:
+  db_path_patterns:
+    - "direct.db"
+    - "*/*/direct.db"
+    - "*/databases/direct.db"
+    - "*/cache/*/direct.db"
+
+red_flags:
+  keywords:
+    - kill
+    - murder
+    - bomb
+    - payment
+    - bitcoin
+    - drug
+    - deal
+    - "paisa bhej"
+    - maar
+    - khatam
+  phrases:
+    - "main aa raha hoon"
+    - "khatam kar denge"
+    - "milte hain"
