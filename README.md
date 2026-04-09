@@ -25,7 +25,7 @@
 
 ```
 ╔══════════════════════════════════════════════════════╗
-║    SocialScope Forensic Toolkit  v3.0                ║
+║    SocialScope Forensic Toolkit  v1.0                ║
 ║    Instagram DM Analysis — 6-Phase Engine            ║
 ╚══════════════════════════════════════════════════════╝
 ```
