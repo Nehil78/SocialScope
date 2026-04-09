@@ -4,8 +4,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python)
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20Mac-lightgrey?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
-![Version](https://img.shields.io/badge/Version-3.0-orange?style=for-the-badge)
+
 
 **A professional Instagram DM Forensic Analysis Tool**  
 *Automatically extract, analyse, and report digital evidence from Instagram data*
