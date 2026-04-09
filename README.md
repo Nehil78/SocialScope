@@ -392,8 +392,5 @@ This tool follows key digital forensic principles:
 
 <div align="center">
 
-**⭐ Star this repo if you found it useful!**
-
-*Built with ❤️ for digital forensics education*
 
 </div>
